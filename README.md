@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **redgreat/redgreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=redgreat&right_color=red" />
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redgreat&theme=dark&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=redgreat&show_icons=true&theme=dark&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=redgreat&theme=github)
+
+
+

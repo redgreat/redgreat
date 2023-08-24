@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=redgreat&right_color=red" />
 
-![](https://github-readme-stats.vercel.app/api?username=redgreat&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=redgreat&theme=chartreuse-dark&count_private=true&rank_icon=github)
 <!--
 ![](https://activity-graph.herokuapp.com/graph?username=redgreat&theme=github)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redgreat&theme=dark&layout=compact)
